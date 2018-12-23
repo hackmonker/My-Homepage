@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Home"
+theme = "slate"
+
+[ params ]
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
