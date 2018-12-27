@@ -13,7 +13,7 @@ tiles:
   tags: ["search"]
 -
   name: "amazon"
-  url: "https://amazon.com"
+  url: "https://amazon.in"
   img: "logos/amazon.svg"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
@@ -26,7 +26,7 @@ tiles:
   txt_color: "#ffffff"
 -
   name: "spotify"
-  url: "https://web.spotify.com"
+  url: "https://open.spotify.com"
   img: "logos/spotify.svg"
   bg_color: "#191414"
   txt_color: "#1db954"
